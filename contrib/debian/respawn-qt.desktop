@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Respawn
+Comment=Respawn P2P Cryptocurrency
+Comment[fr]=Respawn, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Respawn, eşten eşe kriptografik sanal para birimi
+Exec=respawn-qt %u
+Terminal=false
+Type=Application
+Icon=respawn128
+MimeType=x-scheme-handler/respawn;
+Categories=Office;Finance;

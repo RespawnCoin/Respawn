@@ -1,0 +1,11 @@
+[Protocol]
+exec=respawn-qt '%u'
+protocol=respawn
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
